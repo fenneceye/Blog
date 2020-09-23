@@ -27,6 +27,18 @@ url: "https://fenneceye.github.io" # the base hostname & protocol for your site,
 twitter_username: Fenneceyes
 github_username:  Fenneceye
 
+
+# author
+author : FennecEye
+
+
+
+# copyright
+copyright: "FennecEye"
+
+
+# logo images/FenneceyeLOGO.png
+title-logo: /images/FenneceyeLOGO.png
 # Build settings
 # removed minima theme to regular
 # theme: minima
